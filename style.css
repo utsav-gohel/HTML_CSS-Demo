@@ -1,0 +1,11 @@
+form{
+    font-size: medium;
+    font-style: normal;
+    
+}
+fieldset{
+    border-top:  solid 1px #333;
+}
+body{
+    font-family:  Helvetica;
+}
