@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://img.freepik.com/free-vector/realistic-studio-lights-empty-background-design_1017-27233.jpg?w=2000");
+    background-image: url("https://media.istockphoto.com/photos/light-blue-paper-texture-background-picture-id1303637923?b=1&k=20&m=1303637923&s=612x612&w=0&h=iwLb9ARrRFooPmT5Bp2Gq2iX22AbVGIVpRrJFd2Bvl4=");
     
 }
 /* This will apply on every HTML elements on the page. */
@@ -122,3 +122,33 @@ p.bottom{
     margin-top: 10px;
     font-size: 20px;
  }
+ .Olist{
+  background-color: #ff9999;
+  padding: 20px;
+ }
+ .Olist{
+  background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 15px;
+ }
+ .static{
+  position: static;
+  border: 3px solid #ff9999;
+  font-size: 30px;
+ }
+ .relative{
+  position: relative;
+  border: 3px solid #ff9999;
+  font-size: 30px;
+  margin-top: 10px;
+  left: 30px;
+ }
+ .overflow-hidden{
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid black;
+  overflow: hidden;
+ }
+ 
